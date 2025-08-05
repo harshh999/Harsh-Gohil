@@ -1,81 +1,9 @@
-# 👋 Hey there, I'm Harsh Gohil
+<h1 align="center">Hi 👋, I'm Harsh Gohil</h1>
+<h3 align="center">🎓 Final-year B.E. Computer Engineering student at LDCE, Ahmedabad (GTU) 🚀 Passionate about building full-stack web apps, DevOps pipelines, and scalable cloud deployments 🎯 Seeking opportunities as a Full Stack Developer or DevOps Engineer</h3>
 
-🎓 Final-year B.E. Computer Engineering student at **LDCE, Ahmedabad (GTU)**  
-🚀 Passionate about building full-stack web apps, DevOps pipelines, and scalable cloud deployments  
-🎯 Seeking opportunities as a **Full Stack Developer** or **DevOps Engineer**
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
----
-
-## 💼 Experience & Internships
-- 👨‍💻 **Full Stack Developer Intern** – Univativ (Dec 2024 – Apr 2025)  
-- 🛠️ **Angular & .NET Intern** – Tatvasoft (Jul 2025 – Aug 2025)  
-- 🎨 **Graphics & Social Media** – Weblogy Sphere Pvt. Ltd.  
-- 📄 **Digital Signature Operator** – BIS, Govt. of India
-
----
-
-## 🧠 Tech Stack
-
-**Languages:**  
-Java · Python · JavaScript
-
-**Frontend:**  
-Angular · React · Vue.js · TailwindCSS · Astro
-
-**Backend:**  
-Node.js · .NET Core · Flask
-
-**Databases:**  
-MySQL · PostgreSQL · ScyllaDB
-
-**DevOps / Cloud:**  
-GitHub Actions · Docker · AWS · Azure
-
-**Other Tools:**  
-Git · Postman
-
----
-
-## 🛠️ Projects
-
-### 🖐️ [Gesture Calculator](https://github.com/harshh999/gesture-calculator)  
-> A camera-based calculator where you "click" buttons using your **thumb and index finger gestures**. Uses real-time hand tracking to simulate a floating calculator interface.
-
-### 🔗 [URL Shortener](https://github.com/harshh999/URL-Shortner)  
-> A minimal and efficient web app to **shorten long URLs into compact links**. Built with backend routing and a clean frontend interface for quick access and redirection.
-
-### 📄 [Resume Builder](https://github.com/harshh999/resume-builder)  
-> A dynamic resume builder that lets users **create, customize, and download professional resumes**. Features form-driven input, real-time preview, and export to PDF functionality.
-
-### ⏱️ [Pomodoro Clock](https://github.com/harshh999/Pomodoro-Clock)  
-> A web-based **Pomodoro timer** to help boost focus and productivity with 25-minute work sessions and 5-minute breaks.  
-🔗 [Live Demo](https://pomodoro-timer-exclusive.netlify.app/)
-
-### 🧠 [ELI5 App](https://github.com/harshh999/eli5-app)  
-> A fun and educational tool that **explains complex topics like you're 5 years old**. Just enter any concept and get a super-simplified explanation.
-
----
-
-## 🏆 Certifications & Highlights
-- ✅ Full Stack Developer – OneRoadmap  
-- ✅ JavaScript & Responsive Design – freeCodeCamp  
-- ✅ AWS Architecture Simulation – Forage  
-- ✅ GenAI-Powered Analytics – TCS Forage  
-- ✅ 5000+ Digital Signatures handled under BIS
-
----
-
-## 🔭 Currently Learning
-> System Design · Docker Compose · Terraform · LeetCode (daily)
-
----
-
-## 📫 Let’s Connect
-- 📧 harshgohil.biz@gmail.com  
-- 🌐 [Portfolio Website](https://bit.ly/4laaqdP)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-gohil-42519034b/)  
-- 🛠️ [GitHub](https://github.com/harshh999)
-
----
-
-⭐ Thanks for stopping by my corner of the internet!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
